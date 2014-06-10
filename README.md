@@ -4,6 +4,8 @@ A beautiful, easy to use and feature rich Graphite dashboard replacement and gra
 
 ![](http://grafana.org/assets/img/edit_dashboards.png)
 
+wowa
+
 ## Features
 ### Graphite Target Editor
 - Graphite target expression parser
