@@ -14,7 +14,7 @@ A beautiful, easy to use and feature rich Graphite dashboard replacement and gra
 - Integrated links to function documentation
 - Rearrange function order
 - Native Graphite PNG render support
-
+ wowa
 ### Graphing
 - Fast rendering, even over large timespans.
 - Click and drag to zoom.
